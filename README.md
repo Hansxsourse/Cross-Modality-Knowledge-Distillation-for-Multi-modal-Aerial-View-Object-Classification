@@ -7,11 +7,10 @@ Authors: [Lehan Yang](https://bio.lehanyang.info/); [Kele Xu](https://scholar.go
 We proposed two KD method to do the aerial view object classification.
 
 `Knowledge Distillation Method 1:`
-![Knowledge Distillation Method 1](https://github.com/Hansxsourse/Cross-Modality-Knowledge-Distillation-forMulti-modal-Aerial-View-Object-Classification/blob/main/imgs/eo-method1.jpg | width=50)
-
+<img src="https://github.com/Hansxsourse/Cross-Modality-Knowledge-Distillation-forMulti-modal-Aerial-View-Object-Classification/blob/main/imgs/eo-method1.jpg" data-canonical-src="https://github.com/Hansxsourse/Cross-Modality-Knowledge-Distillation-forMulti-modal-Aerial-View-Object-Classification/blob/main/imgs/eo-method1.jpg" width="512" height="288" />
 
 `Iteration Knowledge Distillation (Method 2)`
-![Iteration Knowledge Distillation (Method 2)](https://github.com/Hansxsourse/Cross-Modality-Knowledge-Distillation-forMulti-modal-Aerial-View-Object-Classification/blob/main/imgs/eo-method2.jpg | width=100) 
+<img src="https://github.com/Hansxsourse/Cross-Modality-Knowledge-Distillation-forMulti-modal-Aerial-View-Object-Classification/blob/main/imgs/eo-method2.jpg" data-canonical-src="https://github.com/Hansxsourse/Cross-Modality-Knowledge-Distillation-forMulti-modal-Aerial-View-Object-Classification/blob/main/imgs/eo-method2.jpg" width="800" height="1100" />
 
 They are getting significant performance on NTIRE21 SAR+EO dataset:
 

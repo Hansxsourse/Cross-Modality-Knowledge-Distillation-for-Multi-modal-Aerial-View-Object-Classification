@@ -1,4 +1,4 @@
-# Cross-Modality-Knowledge-Distillation-forMulti-modal-Aerial-View-Object-Classification
+# Cross Modality Knowledge Distillation forMulti modal Aerial View Object Classification
 ## Info
 This repo is a implement of our team's solution on [NTIRE 2021 Multi-modal Aerial View Object Classification Challenge - Track 2 (SAR+EO)](https://competitions.codalab.org/competitions/28095)
 

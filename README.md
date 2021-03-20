@@ -61,3 +61,7 @@ The notebook for this part is called `KD1-pp.ipynb`, in `KD1` folder
 The notebook for this part is called `KD2.ipynb`, in `KD2` folder
 
 Training on this notebook will saving both SAR part and EO part model in each iteration.
+
+
+### Test
+use the notebook `test.ipynb` in `./test/` folder, change the file path of testset and then run.

@@ -1,5 +1,7 @@
 # Cross Modality Knowledge Distillation for Multi modal Aerial View Object Classification
 ## Info
+Our paper [Cross Modality Knowledge Distillation for Multi modal Aerial View Object Classification](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Yang_Cross_Modality_Knowledge_Distillation_for_Multi-Modal_Aerial_View_Object_Classification_CVPRW_2021_paper.pdf) has been accepted by CVPR Workshop(CVPRW) New Trends in Image Restoration and Enhancement(NTIRE) 2021.
+
 This repo is a implement of our team's solution on [NTIRE 2021 Multi-modal Aerial View Object Classification Challenge - Track 2 (SAR+EO)](https://competitions.codalab.org/competitions/28095)
 
 Authors: [Lehan Yang](https://bio.lehanyang.info/); [Kele Xu](https://scholar.google.com/citations?user=sou7o2EAAAAJ&hl=zh-CN)
@@ -65,3 +67,18 @@ Training on this notebook will saving both SAR part and EO part model in each it
 
 ### Test
 use the notebook `test.ipynb` in `./test/` folder, change the file path of testset and then run.
+
+
+## Citation
+
+If our research and repository helped your futher research, you can consider cite our paper:
+```
+@InProceedings{Yang_2021_CVPR,
+    author    = {Yang, Lehan and Xu, Kele},
+    title     = {Cross Modality Knowledge Distillation for Multi-Modal Aerial View Object Classification},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2021},
+    pages     = {382-387}
+}
+```

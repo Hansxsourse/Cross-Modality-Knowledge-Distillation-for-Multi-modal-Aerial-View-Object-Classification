@@ -46,7 +46,7 @@ For the training data structure in baseline, we used pytorch built in `ImageFold
 
 We also did arrange the data to training data folder to train and valid data folder to evaluate.
 
-Arranged data folder can be downloaded from [One Drive](https://unisydneyedu-my.sharepoint.com/:u:/g/personal/lyan3310_uni_sydney_edu_au/EefPAUWlmI9BjsJrZEiOM_QBICfvofKl75_AQxIMUA6Iig?e=qxEbzk)
+Send me a email if you need the arranged data folder.
 
 ### Knowledge Distillation Method 1
 For the training data structure in both KD method 1 and 2, in order to make sure the data loader output is corresponding to SAR and EO, we built two csv files seperately for SAR and EO image, which is located in the `data` folder(you also need to change the file path of it in the notebook).
